@@ -1,0 +1,22 @@
+[
+    {
+        "productName": "Xiaomi",
+        "price": "123"
+    },
+    {
+        "productName": "Iphone 12 pro max",
+        "price": "45"
+    },
+    {
+        "productName": "Iphone 4s",
+        "price": "23"
+    },
+    {
+        "productName": "Iphone 13",
+        "price": "79000"
+    },
+    {
+        "productName": "Iphone 13 pro maxx",
+        "price": "79000"
+    }
+]

@@ -31,7 +31,6 @@ public class ProductController {
 
     @GetMapping("/products")
     public List<ProductResponseResource> getAllProductsList(){
-        //List<AvailableQuantity> quantityList = consumer.getAllQuantity();
         return productService.getAllProductsList();
     }
 
